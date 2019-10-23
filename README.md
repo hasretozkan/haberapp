@@ -18,7 +18,7 @@ Description Simple news application. It is a tutorial that contains simple image
 
 **Used Libraries and Versions **
 -----------------------
-"expo": "^ 29.0.0",
+	 "expo": "^ 29.0.0",
      "firebase": "^ 5.4.2",
      "react": "16.3.1",
      "react-native": "https://github.com/expo/react-native/archive/sdk-29.0.0.tar.gz",
