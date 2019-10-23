@@ -7,12 +7,7 @@ import Home from './components/home'
 import Detail from './components/detail'
 
 var config = {
-    apiKey: "AIzaSyC4hWPbFCjuW2AqBB9OwpksDgMAy2Sgd-A",
-    authDomain: "haber-app-a7e1c.firebaseapp.com",
-    databaseURL: "https://haber-app-a7e1c.firebaseio.com",
-    projectId: "haber-app-a7e1c",
-    storageBucket: "haber-app-a7e1c.appspot.com",
-    messagingSenderId: "708037067351"
+    //Firebase Config
   };
   firebase.initializeApp(config);
 
