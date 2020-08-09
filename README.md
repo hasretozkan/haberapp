@@ -49,4 +49,7 @@ Açıklama Basit haber uygulamasıdır. İçerik olarak basit resim ve metin iç
     "react": "16.3.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-29.0.0.tar.gz",
     "react-navigation": "^2.13.0"
+    
+## Contributors
+***Hasret Özkan*** - ***[Website](hasretozkan.me)*** - [***LinkedIn***](linkedin.com/in/hasretozkan)
 
